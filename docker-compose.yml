@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  firstwebapplication:
+    image: firstwebapplication
+    build:
+      context: ./FirstWebApplication
+      dockerfile: Dockerfile
+    networks:
+      - default
+
+  samplewebapi:
+    image: samplewebapi
+    build:
+      context: ./SampleWebApi
+      dockerfile: Dockerfile
+    networks:
+      - default
