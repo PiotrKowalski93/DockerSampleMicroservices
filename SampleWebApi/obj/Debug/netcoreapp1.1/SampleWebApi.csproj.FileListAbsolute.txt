@@ -1,0 +1,8 @@
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\SampleWebApi\bin\Debug\netcoreapp1.1\SampleWebApi.deps.json
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\SampleWebApi\bin\Debug\netcoreapp1.1\SampleWebApi.runtimeconfig.json
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\SampleWebApi\bin\Debug\netcoreapp1.1\SampleWebApi.runtimeconfig.dev.json
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\SampleWebApi\bin\Debug\netcoreapp1.1\SampleWebApi.dll
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\SampleWebApi\bin\Debug\netcoreapp1.1\SampleWebApi.pdb
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\SampleWebApi\obj\Debug\netcoreapp1.1\SampleWebApi.AssemblyInfo.cs
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\SampleWebApi\obj\Debug\netcoreapp1.1\SampleWebApi.dll
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\SampleWebApi\obj\Debug\netcoreapp1.1\SampleWebApi.pdb

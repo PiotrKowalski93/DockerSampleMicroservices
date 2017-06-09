@@ -1,0 +1,9 @@
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\bin\Debug\netcoreapp1.1\FirstWebApplication.deps.json
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\bin\Debug\netcoreapp1.1\FirstWebApplication.runtimeconfig.json
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\bin\Debug\netcoreapp1.1\FirstWebApplication.runtimeconfig.dev.json
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\bin\Debug\netcoreapp1.1\FirstWebApplication.dll
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\bin\Debug\netcoreapp1.1\FirstWebApplication.pdb
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\obj\Debug\netcoreapp1.1\FirstWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\obj\Debug\netcoreapp1.1\FirstWebApplication.AssemblyInfo.cs
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\obj\Debug\netcoreapp1.1\FirstWebApplication.dll
+C:\Users\KOWALSKIP\Source\Repos\DockerSampleMicroservices\FirstWebApplication\obj\Debug\netcoreapp1.1\FirstWebApplication.pdb
